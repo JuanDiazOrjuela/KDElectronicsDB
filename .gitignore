@@ -1,0 +1,8 @@
+# Archivos compilados
+*.class
+build/
+dist/
+nbproject/private/
+
+# Configuración con contraseñas
+database.properties
